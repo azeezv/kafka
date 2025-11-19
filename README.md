@@ -22,7 +22,7 @@ docker compose up
 # kafka-ui at 8080
 ```
 
-See: [kafka](./kafka/README.md)                            |
+See: [kafka](./kafka/)                        
 
 Kafka UI at: http://localhost:8080
 
