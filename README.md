@@ -22,16 +22,7 @@ docker compose up
 # kafka-ui at 8080
 ```
 
-See: [docker-compose.yml](./kafka/docker-compose.yml)
-
-3 types of listeners:
-
-| Listener       | Purpose                              | Example Port                           |
-| -------------- | ------------------------------------ | -------------------------------------- |
-| **INTERNAL**   | Container-to-container communication | 9092                                   |
-| **EXTERNAL**   | Host machine → Kafka                 | 29092 (mapped to different host ports) |
-| **CONTROLLER** | KRaft controller traffic             | 9093                                   |
-
+See: [kafka](./kafka/README.md)                            |
 
 Kafka UI at: http://localhost:8080
 
