@@ -2,7 +2,7 @@
 
 Exploring event-driven Saga pattern (Choreography) architecture using 3-broker Kafka cluster running in KRaft mode.
 
-# Micro Services
+# Setup
 
 Spin the Kafka server, backennd micro services, backend.
 
